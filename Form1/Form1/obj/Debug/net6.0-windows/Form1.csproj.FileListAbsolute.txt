@@ -1,0 +1,76 @@
+D:\SinhVien\2nd year\vs2022\Form1\Form1\bin\Debug\net6.0-windows\Form1.exe
+D:\SinhVien\2nd year\vs2022\Form1\Form1\bin\Debug\net6.0-windows\Form1.deps.json
+D:\SinhVien\2nd year\vs2022\Form1\Form1\bin\Debug\net6.0-windows\Form1.runtimeconfig.json
+D:\SinhVien\2nd year\vs2022\Form1\Form1\bin\Debug\net6.0-windows\Form1.dll
+D:\SinhVien\2nd year\vs2022\Form1\Form1\bin\Debug\net6.0-windows\Form1.pdb
+D:\SinhVien\2nd year\vs2022\Form1\Form1\obj\Debug\net6.0-windows\Form1.csproj.AssemblyReference.cache
+D:\SinhVien\2nd year\vs2022\Form1\Form1\obj\Debug\net6.0-windows\Form1.Properties.Resources.resources
+D:\SinhVien\2nd year\vs2022\Form1\Form1\obj\Debug\net6.0-windows\Form1.csproj.GenerateResource.cache
+D:\SinhVien\2nd year\vs2022\Form1\Form1\obj\Debug\net6.0-windows\Form1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SinhVien\2nd year\vs2022\Form1\Form1\obj\Debug\net6.0-windows\Form1.AssemblyInfoInputs.cache
+D:\SinhVien\2nd year\vs2022\Form1\Form1\obj\Debug\net6.0-windows\Form1.AssemblyInfo.cs
+D:\SinhVien\2nd year\vs2022\Form1\Form1\obj\Debug\net6.0-windows\Form1.csproj.CoreCompileInputs.cache
+D:\SinhVien\2nd year\vs2022\Form1\Form1\obj\Debug\net6.0-windows\Form1.dll
+D:\SinhVien\2nd year\vs2022\Form1\Form1\obj\Debug\net6.0-windows\refint\Form1.dll
+D:\SinhVien\2nd year\vs2022\Form1\Form1\obj\Debug\net6.0-windows\Form1.pdb
+D:\SinhVien\2nd year\vs2022\Form1\Form1\obj\Debug\net6.0-windows\Form1.genruntimeconfig.cache
+D:\SinhVien\2nd year\vs2022\Form1\Form1\obj\Debug\net6.0-windows\ref\Form1.dll
+D:\SinhVien\2nd year\vs2022\Form1\Form1\obj\Debug\net6.0-windows\Form1.App.resources
+D:\SinhVien\2nd year\vs2022\Form1\Form1\obj\Debug\net6.0-windows\Form1.FormQLLL.resources
+D:\SinhVien\2nd year\vs2022\Form1\Form1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\SinhVien\2nd year\vs2022\Form1\Form1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\SinhVien\2nd year\vs2022\Form1\Form1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\SinhVien\2nd year\vs2022\Form1\Form1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\SinhVien\2nd year\vs2022\Form1\Form1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SinhVien\2nd year\vs2022\Form1\Form1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SinhVien\2nd year\vs2022\Form1\Form1\obj\Debug\net6.0-windows\Form1.csproj.CopyComplete
+D:\SinhVien\2nd year\vs2022\Form1\Form1\obj\Debug\net6.0-windows\Form1.LoginUI.resources
+D:\SinhVien\2nd year\vs2022\Form1\Form1\obj\Debug\net6.0-windows\Form1.FormBill.resources
+D:\SinhVien\2nd year\vs2022\Form1\Form1\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+D:\SinhVien\2nd year\vs2022\Form1\Form1\obj\Debug\net6.0-windows\Form1.csproj.ResolveComReference.cache
+D:\SinhVien\2nd year\vs2022\Form1\Form1\obj\Debug\net6.0-windows\Form1.QuanLyHD.resources
+D:\SinhVien\2nd year\vs2022\Form1\Form1\obj\Debug\net6.0-windows\Form1.DetailsBill.resources
+D:\SinhVien\2nd year\vs2022\Form1\Form1\obj\Debug\net6.0-windows\Form1.DoanhThu.resources
+D:\SinhVien\2nd year\vs2022\Form1\Form1\obj\Debug\net6.0-windows\Form1.FormQLMonAn.resources
+D:\SinhVien\2nd year\vs2022\Form1\Form1\obj\Debug\net6.0-windows\Form1.FormQLNV.resources
+D:\SinhVien\2nd year\vs2022\Form1\Form1\obj\Debug\net6.0-windows\Form1.Form_LapHoaDon.resources
+D:\SinhVien\2nd year\vs2022\Form1\Form1\obj\Debug\net6.0-windows\Form1.QLKho.resources
+D:\SinhVien\2nd year\vs2022\Form1\Form1\bin\Debug\net6.0-windows\ScottPlot.dll
+D:\hoctap\ki 5\phantichhttt\Đồ án\Form1\Form1\obj\Debug\net6.0-windows\Form1.csproj.AssemblyReference.cache
+D:\hoctap\ki 5\phantichhttt\Đồ án\Form1\Form1\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+D:\hoctap\ki 5\phantichhttt\Đồ án\Form1\Form1\obj\Debug\net6.0-windows\Form1.csproj.ResolveComReference.cache
+D:\hoctap\ki 5\phantichhttt\Đồ án\Form1\Form1\obj\Debug\net6.0-windows\Form1.dll
+D:\hoctap\ki 5\phantichhttt\Đồ án\Form1\Form1\obj\Debug\net6.0-windows\refint\Form1.dll
+D:\hoctap\ki 5\phantichhttt\Đồ án\Form1\Form1\obj\Debug\net6.0-windows\Form1.pdb
+D:\hoctap\ki 5\phantichhttt\Đồ án\Form1\Form1\bin\Debug\net6.0-windows\Form1.exe
+D:\hoctap\ki 5\phantichhttt\Đồ án\Form1\Form1\bin\Debug\net6.0-windows\Form1.deps.json
+D:\hoctap\ki 5\phantichhttt\Đồ án\Form1\Form1\bin\Debug\net6.0-windows\Form1.runtimeconfig.json
+D:\hoctap\ki 5\phantichhttt\Đồ án\Form1\Form1\bin\Debug\net6.0-windows\Form1.dll
+D:\hoctap\ki 5\phantichhttt\Đồ án\Form1\Form1\bin\Debug\net6.0-windows\Form1.pdb
+D:\hoctap\ki 5\phantichhttt\Đồ án\Form1\Form1\bin\Debug\net6.0-windows\ScottPlot.dll
+D:\hoctap\ki 5\phantichhttt\Đồ án\Form1\Form1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\hoctap\ki 5\phantichhttt\Đồ án\Form1\Form1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\hoctap\ki 5\phantichhttt\Đồ án\Form1\Form1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\hoctap\ki 5\phantichhttt\Đồ án\Form1\Form1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\hoctap\ki 5\phantichhttt\Đồ án\Form1\Form1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\hoctap\ki 5\phantichhttt\Đồ án\Form1\Form1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\hoctap\ki 5\phantichhttt\Đồ án\Form1\Form1\obj\Debug\net6.0-windows\Form1.App.resources
+D:\hoctap\ki 5\phantichhttt\Đồ án\Form1\Form1\obj\Debug\net6.0-windows\Form1.DetailsBill.resources
+D:\hoctap\ki 5\phantichhttt\Đồ án\Form1\Form1\obj\Debug\net6.0-windows\Form1.DoanhThu.resources
+D:\hoctap\ki 5\phantichhttt\Đồ án\Form1\Form1\obj\Debug\net6.0-windows\Form1.FormBill.resources
+D:\hoctap\ki 5\phantichhttt\Đồ án\Form1\Form1\obj\Debug\net6.0-windows\Form1.FormQLLL.resources
+D:\hoctap\ki 5\phantichhttt\Đồ án\Form1\Form1\obj\Debug\net6.0-windows\Form1.FormQLMonAn.resources
+D:\hoctap\ki 5\phantichhttt\Đồ án\Form1\Form1\obj\Debug\net6.0-windows\Form1.FormQLNV.resources
+D:\hoctap\ki 5\phantichhttt\Đồ án\Form1\Form1\obj\Debug\net6.0-windows\Form1.Form_LapHoaDon.resources
+D:\hoctap\ki 5\phantichhttt\Đồ án\Form1\Form1\obj\Debug\net6.0-windows\Form1.LoginUI.resources
+D:\hoctap\ki 5\phantichhttt\Đồ án\Form1\Form1\obj\Debug\net6.0-windows\Form1.Properties.Resources.resources
+D:\hoctap\ki 5\phantichhttt\Đồ án\Form1\Form1\obj\Debug\net6.0-windows\Form1.QLKho.resources
+D:\hoctap\ki 5\phantichhttt\Đồ án\Form1\Form1\obj\Debug\net6.0-windows\Form1.QuanLyHD.resources
+D:\hoctap\ki 5\phantichhttt\Đồ án\Form1\Form1\obj\Debug\net6.0-windows\Form1.csproj.GenerateResource.cache
+D:\hoctap\ki 5\phantichhttt\Đồ án\Form1\Form1\obj\Debug\net6.0-windows\Form1.GeneratedMSBuildEditorConfig.editorconfig
+D:\hoctap\ki 5\phantichhttt\Đồ án\Form1\Form1\obj\Debug\net6.0-windows\Form1.AssemblyInfoInputs.cache
+D:\hoctap\ki 5\phantichhttt\Đồ án\Form1\Form1\obj\Debug\net6.0-windows\Form1.AssemblyInfo.cs
+D:\hoctap\ki 5\phantichhttt\Đồ án\Form1\Form1\obj\Debug\net6.0-windows\Form1.csproj.CoreCompileInputs.cache
+D:\hoctap\ki 5\phantichhttt\Đồ án\Form1\Form1\obj\Debug\net6.0-windows\Form1.csproj.CopyComplete
+D:\hoctap\ki 5\phantichhttt\Đồ án\Form1\Form1\obj\Debug\net6.0-windows\Form1.genruntimeconfig.cache
+D:\hoctap\ki 5\phantichhttt\Đồ án\Form1\Form1\obj\Debug\net6.0-windows\ref\Form1.dll
